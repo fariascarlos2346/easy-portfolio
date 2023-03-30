@@ -53,3 +53,11 @@ footer a {
 footer p {
     margin-top: 2px;
 }
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: blue;
+}
